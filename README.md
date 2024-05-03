@@ -1,6 +1,7 @@
 # Hello, World!!! 👋, I'm Divit  - Distilled-Water-H2O
 
-### I use Python and it's robust frameworks to automate tasks, leveraging its versatility to streamline processes and enhance productivity. 🔥
+### I use power o' Python and it's robust frameworks to automate tasks, leveraging its versatility to streamline processes and enhance productivity. 🔥
+
 
 # 🛂 GitHub want me to say
 
@@ -8,8 +9,25 @@
 - 🤝 I’m looking to collaborate.
 - 💬 Ask me about Automation and streamlit
 - 📫 Mail Me: [n6941401@gmail.com](mailto:n6941401@gmail.com) | Busy
-- 😄 Pronouns: He/Him
+- ♂️ Pronouns: He/Him
 - ⚡ Fun fact: I can 3D animate too.
+- ✍️ Future Goal: Creating an Impact.
+
+# 🐙 My GitHub Statictics
+
+<p align="center">
+  <img width="300" height="100" src="https://github-readme-stats.vercel.app/api?username=Distilled-Water-H2O&show_icons=true&theme=dark">
+  <img width="400" height="100" src="https://streak-stats.demolab.com?user=sammorozov&theme=github-dark&hide_border=true&border_radius=5&card_width=800">
+  <img width="300" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Distilled-Water-H2O&size_weight=0.15&count_weight=0.5&layout=compact&theme=dark">
+</p>
+
+🌟 Goals and Aspirations
+
+- 🚀 Launching innovative projects.
+- 📚 Learning new technologies.
+- 🌐 Building a strong online presence.
+- 🌱 Growing as a developer.
+- 🤲 Contributing to tech communities.
 
 # 👩‍💻 Programming Languages and .py libraries
 
@@ -19,12 +37,12 @@
 
 # ⛵ About Me
 
-- Passionate about Technology 🖨️
-- Enthusiastic Blog Writer 📝
-- Always Engaged in Tech Conversations 💬
-- Moderately Active Lifestyle 🏃‍♂️
-- Quick and Adaptive Learner 🎓
-- Dedicated to Open Source Initiatives 🌍
+- 🖨️ Passionate about Technology
+- 📝 Enthusiastic Blog Writer 
+- 💬 Always Engaged in Tech Conversations 
+- 🏃‍♂️ Moderately Active Lifestyle 
+- 🎓 Quick and Adaptive Learner 
+- 🌍 Dedicated to Open Source Initiatives 
 
 # 📩 Connect with me
 
