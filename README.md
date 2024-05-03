@@ -1,6 +1,6 @@
 # Hello, World!!! 👋, I'm Divit  - Distilled-Water-H2O
 
-### I use power o' Python and it's robust frameworks to automate tasks, leveraging its versatility to streamline processes and enhance productivity. 🔥
+### I harness the capabilities of Python and its robust frameworks to automate a myriad of tasks, exploiting its versatility to streamline operations and amplify efficiency blazingly. 🔥
 
 
 # 🛂 GitHub want me to say
