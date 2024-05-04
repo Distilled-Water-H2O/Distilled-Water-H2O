@@ -21,7 +21,7 @@
   <img width="300" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Distilled-Water-H2O&size_weight=0.15&count_weight=0.5&layout=compact&theme=dark">
 </p>
 
-🌟 Goals and Aspirations
+# 🌟 Goals and Aspirations
 
 - 🚀 Launching innovative projects.
 - 📚 Learning new technologies.
